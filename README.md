@@ -4,6 +4,8 @@ Project Description:
 
 This Python script offers a user-friendly tool for generating strong passwords and evaluating the strength of custom passwords. The program is interactive, allowing users to perform the following functions:
 
+<hr/>
+
 Features:
 
 1. Random Strong Password Generator
@@ -23,6 +25,8 @@ Features:
 * 4 numbers
 * Outputs the strength level: Very Strong, Strong, Medium, Weak, or Very Weak.
 
+<hr/>
+
 How to Use:
 
 1. Run the script in a Python environment.
@@ -32,6 +36,8 @@ How to Use:
 2: Check the strength of an existing password.
 4. Follow the prompts to complete your task.
 5. Optionally, choose to run the program again or exit.
+
+<hr/>
 
 Example Usage:
 
@@ -46,6 +52,8 @@ Enter your name and choose option 2. Provide a password, and the program will ev
 Input: abc@12345
 
 Output: The password abc@12345 is STRONG.
+
+<hr/>
 
 Prerequisites:
 
